@@ -1,2 +1,2 @@
 # Snake-the-Game
- Primeiro repositório em python e sobre jogos/  First repository on python and about games
+ Meu primeiro repositório em python e sobre jogos/  My first repository on python and about games
